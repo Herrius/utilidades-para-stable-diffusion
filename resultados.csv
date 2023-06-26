@@ -1,0 +1,182 @@
+Nombre de la Extensión,Estrellas
+sd-webui-controlnet,10617
+TiledDiffusion with Tiled VAE,2908
+sd-webui-segment-anything,1955
+Deforum,1736
+Booru tag autocompletion,1731
+Stable Diffusion Webui Civitai Helper,1613
+Dreambooth,1444
+OpenPose Editor,1317
+Kohya-ss Additional Networks,1243
+TemporalKit,1175
+!After Detailer,1131
+Dynamic Prompts,1125
+Depth Maps,1036
+sd-webui-prompt-all-in-one,996
+zh_CN Localization,948
+sd-webui-roop,876
+Ultimate SD Upscale,827
+text2video,810
+WD 1.4 Tagger,790
+LoRA Block Weight,650
+Regional Prompter,630
+ebsynth_utility,618
+LLuL,612
+Kitchen Theme,605
+SD-CN-Animation,598
+DreamArtist,594
+Unprompted,580
+Dynamic Thresholding,543
+Bilingual Localization,538
+a1111-sd-webui-lycoris,538
+stable-diffusion-webui-rembg,511
+3D Openpose Editor,501
+StableSR,487
+StylePile,480
+posex,471
+Infinite Zoom,460
+Dataset Tag Editor,409
+SuperMerger,391
+Pixelization,387
+auto-sd-paint-ext,368
+Image browser,352
+Model toolkit,333
+Aesthetic Gradients,326
+multi-subject-render,321
+depthmap2mask,307
+Latent Couple,302
+Video Loopback,296
+openOutpaint extension,289
+Detection Detailer,289
+Nevysha's Cozy Nest,283
+Infinite image browsing,273
+Inpaint Anything,271
+Promptgen,269
+seed travel,258
+Merge Block Weighted,250
+PBRemTools,245
+Clip Interrogator,240
+Batch Face Swap,239
+gif2gif,203
+One Button Prompt,202
+Canvas Zoom,201
+Prompt Translator,192
+Catppuccin Theme,189
+3D Model&Pose Loader,177
+ABG_extension,175
+Model Converter,174
+Preset Utilities,162
+Agent Scheduler,161
+Prompt Generator,157
+Prompt Fusion,156
+Aspect Ratio Helper,152
+Miaoshouai Assistant,147
+prompt travel,146
+Riffusion,145
+System Info,141
+Txt/Img to 3D Model,138
+Smart Process,135
+embedding-inspector,134
+Abysz LAB,132
+text2prompt,131
+shift-attention,128
+Config-Presets,127
+stable-diffusion-webui-state,123
+model-keyword,121
+zh_Hans Localization,120
+haku-img,116
+anti-burn,114
+Hypernetwork-Monkeypatch-Extension,112
+Aspect Ratio selector,107
+Panorama Viewer,107
+Prompt Translator,107
+Asymmetric Tiling,106
+Prompt Gallery,104
+sd-webui-openpose-editor,101
+Infinity Grid Generator,100
+tokenizer,98
+Aesthetic Image Scorer,98
+sd-canvas-editor,94
+Inspiration,93
+Latent Mirroring,92
+Steps Animation,90
+training-picker,88
+Multiple Hypernetworks,88
+Save Intermediate Images,82
+Sonar,76
+Negative Prompt Weight,72
+Depth Image I/O,69
+DAAM,68
+Composable LoRA,67
+Kandinsky,66
+Dump U-Net,65
+Visualize Cross-Attention,64
+miniPaint,64
+Artists to study,62
+Stable Horde Client,62
+sd-webui-tunnels,62
+Distributed,61
+Neutral Prompt,60
+Animator,59
+Model Preset Manager,59
+VRAM Estimator,58
+novelai-2-local-prompt,57
+Custom Diffusion,56
+NSFW checker,54
+Merge Board,52
+Embeddings editor,46
+quick-css,46
+Stable Diffusion AWS Extension,45
+Aesthetic Scorer,45
+sd-model-preview-xd,45
+Embedding Merge,42
+Stable Horde Worker,42
+Auto TLS-HTTPS,41
+booru2prompt,41
+ja_JP Localization,41
+db-storage1111,37
+sd-webui-enable-checker,36
+Web UI client queue,34
+conditioning-highres-fix,30
+Pixel,30
+Corridor Crawler Outpainting,28
+CFG-Schedule-for-Automatic1111-SD,26
+Auto Translate,26
+Eye Mask,25
+Model Organizer,25
+StableStudio Adapter,24
+Add image number to grid,23
+cafe-aesthetic,23
+Styles Editor,23
+Gelbooru Prompt,22
+Lua,22
+Diffusion Defender,20
+QR Code Generator,19
+Discord - Dynamic Rich Presence,18
+sd-webui-prompt_history,18
+Batch Checkpoints and Prompts,17
+sd-webui-bluescape,17
+Randomize,16
+Discord Rich Presence,15
+old localizations,15
+ko_KR Localization,14
+Model Downloader,13
+DH Patch,11
+mine-diffusion,11
+Weight Gradient,9
+Clip I/O,8
+Quick Tab Switch,7
+e621 Prompt,5
+zh_TW Localization,4
+it_IT Localization,4
+pt_BR Localization,3
+th_TH Localization,2
+ru_RU Localization,2
+ua_UA Localization,1
+es_ES Localization,1
+de_DE Localization,1
+tr_TR Localization,1
+no_NO Localization,0
+fi_FI Localization,0
+sd-webui-color-enhance,0
+Danbooru Prompt,0
